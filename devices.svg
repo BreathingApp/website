@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="136"
+   height="276"
+   viewBox="0 0 136 276"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="devices.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="0.66666667"
+     inkscape:cx="291"
+     inkscape:cy="1.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page-1" />
+  <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">IPAD 2</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     sketch:type="MSPage">
+    <g
+       id="iphone"
+       sketch:type="MSLayerGroup"
+       transform="translate(3.5,1.5000001)"
+       stroke="#7e89a3">
+      <path
+         d="m 130,257.964 c 0,8.833 -7.191,15.992 -16.062,15.992 H 16.063 c -8.871,0 -16.062,-7.159 -16.062,-15.992 V 16.073 C 0.001,7.24 7.192,0.081 16.063,0.081 h 97.875 C 122.809,0.081 130,7.24 130,16.073 Z"
+         id="path24"
+         stroke-width="2"
+         fill="#fdfdfd"
+         sketch:type="MSShapeGroup" />
+      <rect
+         id="rect26"
+         fill="#ffffff"
+         sketch:type="MSShapeGroup"
+         x="9"
+         y="36"
+         width="111.93"
+         height="199.084" />
+      <path
+         d="m 77,25.746 c 0,0.635 -0.439,1.147 -0.98,1.147 H 55.918 c -0.542,0 -0.98,-0.513 -0.98,-1.147 v -2.58 c 0,-0.635 0.439,-1.147 0.98,-1.147 H 76.02 c 0.541,0 0.98,0.513 0.98,1.147 z"
+         id="speaker"
+         sketch:type="MSShapeGroup" />
+      <circle
+         id="circle29"
+         sketch:type="MSShapeGroup"
+         cx="66"
+         cy="12"
+         r="3" />
+      <ellipse
+         id="ellipse31"
+         sketch:type="MSShapeGroup"
+         cx="65.040001"
+         cy="254.00101"
+         rx="10.04"
+         ry="10.001" />
+    </g>
+  </g>
+  <metadata
+     id="metadata854">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>IPAD 2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
